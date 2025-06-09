@@ -1,0 +1,16 @@
+User-Agent: *
+Disallow: /page65096427.html
+Disallow: /page65098025.html
+Disallow: /tilda/form*
+Disallow: /tilda/rec*
+Disallow: /tilda/click*
+Disallow: /tilda/scroll*
+Disallow: /tilda/popup*
+Disallow: /tilda/cart*
+Disallow: /tilda/product*
+Disallow: /tilda/event*
+Disallow:
+
+
+Sitemap: https://project12540117.tilda.ws/sitemap.xml
+Sitemap: https://project12540117.tilda.ws/sitemap-store.xml
