@@ -15,6 +15,6 @@ page65096427.html	header -
 page65097539.html	livingconditions.html
 page65098025.html	footer -
 page65098057.html	recommend-to-see.html
-page65098985.html	call_me.html
+page65098985.html	call_me
 page65099399.html	booking.html
 page69538701.html	rooms.html
